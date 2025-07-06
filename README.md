@@ -8,8 +8,21 @@ Welcome to the Debugging Assignment repository! This repository contains the res
    - Contains intentional errors for students to identify and fix.
    - Errors include issues with HTML syntax, structure, accessibility, and semantic correctness.
 
+   #### ERRORS FIXED ON INDEX.HTML
+   - updated the html opening tag with the english language specification.
+   - removed uneccesary / from meta tag. 
+   - easter buny photo implemented and alt text set up. 
+   - closed the heading tag
+
 2. **style.css**
    - Includes intentional errors related to CSS syntax, selectors, and properties.
+   - updated footer to lime green. deleted duplicate footer entry
+   - CSS styles must not contain spaces. 5 vw corrected to 5vw
+   - paragrah css selector updated to 1.35em 
+   - .error css selector updated to a valid color
+   - updated the text decoration value to underline
+
+
 
 3. **Expected Site Design**
    - Includes a screenshot of the error-free page (`images/expected-site-design.png`) to serve as a reference for students.
@@ -34,6 +47,7 @@ The goal of this assignment is to:
 - Improve familiarity with W3C standards and accessibility best practices.
 - Practice using debugging tools and validators to ensure standards-compliant code.
 - Learn to document errors and resolutions in a structured manner.
+- closed the br tags before <p> with as a special dish text. 
 
 ## Instructions
 

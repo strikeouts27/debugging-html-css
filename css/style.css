@@ -27,20 +27,20 @@ header img {
 	height: auto;
 }
 
+/*updated incorrect footer color B2 to a standard css color */ 
 footer {
 	text-align: center;
 	background-color: #092834;
-	color: #B2;
+	color: lime;
 	clear: both;
 }
 
-footer h2 {
-	color: #B2D732
-}
+
 
 h1 {
 	font-family: 'Love Ya Like A Sister', cursive;
-	font-size: 5 vw;
+	/*CSS styles must not contain spaces. 5 vw corrected to 5vw */
+	font-size: 5vw;
 	color: #B2D732;
 	text-align: center;
 	text-shadow: 3px 2px 5px #202020;
@@ -63,7 +63,8 @@ h3 {
 
 p {
 	font-family: Arial, Helvetica, sans-serif;
-	line-height: 1.35me;
+	/* updated 1.35me to em  */ 
+	line-height: 1.35em;
 	margin-top: 1em;
 }
 
@@ -81,17 +82,19 @@ ol {
 	color: #B2D732;
 }
 
+/*Invalid color utilized */ 
 .error {
-	color: #FE27122;
+	color: white
 }
 
 a {
 	color: #092834;
 }
 
+/*updated dthe text-decoration value from none to underline */
 a:hover {
 	color: #2E6C85;
-	text-decoration: all;
+	text-decoration: underline;
 }
 
 a:visited {
