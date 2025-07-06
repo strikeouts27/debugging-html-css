@@ -48,10 +48,11 @@ h1 {
 	margin: 0px;
 }
 
+/*Created uniform colors for h headers by changing the color to #2E6C85 */
 h2,
 h4,
 h5 {
-	color: #C04402;
+	color: #2E6C85;
 	font-family: 'Architects Daughter', cursive;
 	margin-top: 1em;
 }
