@@ -7,6 +7,7 @@ Welcome to the Debugging Assignment repository! This repository contains the res
 1. **index.html**
    - Contains intentional errors for students to identify and fix.
    - Errors include issues with HTML syntax, structure, accessibility, and semantic correctness.
+   - added a class to the my avattar the easter bunner
 
    #### ERRORS FIXED ON INDEX.HTML
    - updated the html opening tag with the english language specification.
@@ -21,6 +22,7 @@ Welcome to the Debugging Assignment repository! This repository contains the res
    - paragrah css selector updated to 1.35em 
    - .error css selector updated to a valid color
    - updated the text decoration value to underline
+   - changed the my avatar the easter bunny heading to white. 
 
 
 

@@ -12,6 +12,10 @@ main {
 	color: #202020;
 }
 
+/*Updated color to remove error with contrast */
+.myAvatar {
+	color: white; 
+}
 header {
 	background-color: #2E6C85;
 	width: 100%;
